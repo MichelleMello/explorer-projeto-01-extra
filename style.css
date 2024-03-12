@@ -1,0 +1,50 @@
+body{
+    font-family: "Open Sans", sans-serif;
+    color: #828282;
+    text-align: center;
+}
+
+body span {
+    color: #3F3D56;
+}
+
+#image {
+    margin: 64px 0px 32px 0px;
+}
+
+h1 {
+    font-family: "Dosis", sans-serif;
+    color: #3F3D56;
+    margin-bottom: 16px;
+}
+
+h1 span{
+    color: #EE24FF;
+}
+
+p strong {
+    text-weight: bold;
+    color: #3F3D56;
+}
+
+#information {
+    margin-top: 27px;
+    margin-bottom: 64px;
+}
+
+footer {
+    text-align: center;
+    
+}
+
+footer a {
+    color: #3F3D56;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#wave {
+   bottom: 0px;
+   width: 100%; 
+   height: auto;
+}
