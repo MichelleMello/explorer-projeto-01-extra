@@ -2,6 +2,7 @@ body{
     font-family: "Open Sans", sans-serif;
     color: #828282;
     text-align: center;
+    margin: 0;
 }
 
 body span {
@@ -27,24 +28,42 @@ p strong {
     color: #3F3D56;
 }
 
+.text {
+    max-width: 40%;
+    margin: auto;
+}
+
 #information {
     margin-top: 27px;
     margin-bottom: 64px;
 }
 
-footer {
-    text-align: center;
-    
+#line {
+    width: 391px;
+    height: 0px;
+    margin: 0 auto 16px;
+    border: 1px solid #ECEFF2;
 }
 
-footer a {
+.contact {
+    text-align: center;
+    margin-bottom: 40.8px
+}
+
+a {
     color: #3F3D56;
     font-weight: bold;
     text-decoration: none;
+    margin: 0 42px;
 }
 
 #wave {
    bottom: 0px;
-   width: 100%; 
+   left: 0px; 
+   width: 100%;  
+}
+
+#wave img {
    height: auto;
+   margin-top: 40.8px;
 }
